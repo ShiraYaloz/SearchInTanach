@@ -1,5 +1,8 @@
 # Search In Tanach(C#)
-A project to search in the Tanach book you can search standard search and search with skips.
+A project to search in the Tanach book 
+
+you can search standard search and search with skips.
+
 UI by .netWinform.
 ## Search Options
 * standart search of a word or a sentence
